@@ -1,0 +1,47 @@
+{
+  "election_date": "2026-10-25",
+  "gdp_year": 2023,
+  "electoral_municipalities": 5571,
+  "analysis_areas": 5569,
+  "boundary_reconciliation": "Boa Esperança do Norte, Nova Ubiratã and Sorriso pooled into one area",
+  "states_including_df": 27,
+  "total_gdp_brl": 10943345420000.0,
+  "official_national_valid_vote_percent": {
+    "FLAVIO BOLSONARO": 48.2148171157374,
+    "LULA": 51.7851828842626
+  },
+  "foreign_votes_excluded_from_gdp_weighting": {
+    "22": 171497,
+    "13": 200154
+  },
+  "methods_percent": {
+    "state_winner_takes_all": {
+      "FLAVIO BOLSONARO": 73.23127287340986,
+      "LULA": 26.768727126590143
+    },
+    "state_proportional": {
+      "FLAVIO BOLSONARO": 52.158761850657235,
+      "LULA": 47.84123814934276
+    },
+    "municipality_proportional": {
+      "FLAVIO BOLSONARO": 52.85457288464333,
+      "LULA": 47.145427115356675
+    }
+  },
+  "capital_breakdown": {
+    "capitals": {
+      "gdp_percent_of_brazil": 28.30403268034648,
+      "gdp_weighted_vote_percent": {
+        "FLAVIO BOLSONARO": 48.265994822236564,
+        "LULA": 51.734005177763436
+      }
+    },
+    "other_areas": {
+      "gdp_percent_of_brazil": 71.69596731965352,
+      "gdp_weighted_vote_percent": {
+        "FLAVIO BOLSONARO": 54.66604524899023,
+        "LULA": 45.33395475100977
+      }
+    }
+  }
+}
