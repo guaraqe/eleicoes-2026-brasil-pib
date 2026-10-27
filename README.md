@@ -13,7 +13,7 @@ Dados baixados em 27 de outubro de 2026:
 
 | Método | Lula | Flávio Bolsonaro |
 | --- | ---: | ---: |
-| PIB de cada estado inteiro para o vencedor | 26,77% | 73,23% |
+| PIB de cada estado inteiro para o vencedor (incorreto) | 26,77% | 73,23% |
 | PIB estadual × fatia de votos no estado | 47,84% | 52,16% |
 | PIB municipal × fatia de votos no município | 47,15% | 52,85% |
 | ↳ só capitais (28,30% do PIB) | 51,73% | 48,27% |
