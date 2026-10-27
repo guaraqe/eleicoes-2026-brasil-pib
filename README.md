@@ -2,9 +2,10 @@
 
 ## Objetivo
 
-Verificar a afirmação de que Lula teria tido cerca de 30% dos votos
-quando ponderados pelo PIB. Cada área geográfica (estado ou município) tem peso
-igual ao seu PIB de 2023, dividido entre os candidatos segundo os votos válidos.
+Verificar a afirmação de que Lula teria tido só de 30% dos votos quando
+ponderados pelo PIB. Usamos dados dos PIB estadual e municípal de 2023,
+dividido entre os candidatos segundo os votos válidos, para mostrar que esta
+afirmação é exagerada.
 
 ## Resultados
 
@@ -17,17 +18,6 @@ Dados baixados em 27 de outubro de 2026:
 | PIB municipal × fatia de votos no município | 47,15% | 52,85% |
 | ↳ só capitais (28,30% do PIB) | 51,73% | 48,27% |
 | ↳ fora das capitais (71,70% do PIB) | 45,33% | 54,67% |
-
-- Os "30%" de Lula correspondem à fatia do PIB nos estados vencidos por ele, não
-  a uma ponderação proporcional dos votos pelo PIB.
-- Na ponderação proporcional, Lula fica com cerca de 47–48%. Passar de
-  estados para municípios reduz a fatia dele em 0,70 ponto percentual.
-- Os percentuais de capitais (incluindo Brasília) e de fora das capitais usam
-  o método municipal, restrito a cada grupo.
-
-O cálculo não mede quanto PIB os eleitores de cada candidato produzem. Dentro de
-cada área, cada voto válido recebe a mesma parcela do PIB. Além disso, o PIB é
-medido onde a produção acontece, que pode não ser onde as pessoas moram e votam.
 
 ## Como executar
 
