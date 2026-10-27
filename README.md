@@ -15,13 +15,15 @@ Dados baixados em 27 de outubro de 2026:
 | PIB de cada estado inteiro para o vencedor | 26,77% | 73,23% |
 | PIB estadual × fatia de votos no estado | 47,84% | 52,16% |
 | PIB municipal × fatia de votos no município | 47,15% | 52,85% |
+| ↳ só capitais (28,30% do PIB) | 51,73% | 48,27% |
+| ↳ fora das capitais (71,70% do PIB) | 45,33% | 54,67% |
 
-- Os "70%" correspondem à fatia do PIB nos estados vencidos por Flávio, não a uma
-  ponderação proporcional dos votos pelo PIB.
-- Na ponderação proporcional, Flávio fica com cerca de 52–53%. Passar de
-  estados para municípios aumenta a fatia dele em 0,70 ponto percentual.
-- As capitais (incluindo Brasília) concentram 28,30% do PIB. Nelas, Lula tem
-  51,73% e Flávio 48,27%. Fora das capitais, Lula tem 45,33% e Flávio 54,67%.
+- Os "30%" de Lula correspondem à fatia do PIB nos estados vencidos por ele, não
+  a uma ponderação proporcional dos votos pelo PIB.
+- Na ponderação proporcional, Lula fica com cerca de 47–48%. Passar de
+  estados para municípios reduz a fatia dele em 0,70 ponto percentual.
+- Os percentuais de capitais (incluindo Brasília) e de fora das capitais usam
+  o método municipal, restrito a cada grupo.
 
 O cálculo não mede quanto PIB os eleitores de cada candidato produzem. Dentro de
 cada área, cada voto válido recebe a mesma parcela do PIB. Além disso, o PIB é
